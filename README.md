@@ -12,7 +12,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-Khan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-Khan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Bilal-Khan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rao-muhammad-bilal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rao-muhammad-bilal-khan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rao-muhammad-bilal-khan" alt="rao-muhammad-bilal-khan" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rao-muhammad-bilal-khan&show_icons=true&locale=en&layout=compact" alt="rao-muhammad-bilal-khan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rao-muhammad-bilal-khan&show_icons=true&locale=en" alt="rao-muhammad-bilal-khan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rao-muhammad-bilal-khan&" alt="rao-muhammad-bilal-khan" /></p>
